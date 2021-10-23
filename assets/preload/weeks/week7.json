@@ -1,0 +1,48 @@
+{
+	"storyName": "vs lucario",
+	"hideFreeplay": false,
+	"weekBackground": "town",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"lucario",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Furret Walk",
+			"lucario",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Catch Em All",
+			"lucariomad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Nuzzlock",
+			"lucariomega",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Vs Lucario"
+}

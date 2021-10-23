@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lucario_Angry.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lucario Idle instance 10000" x="0" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10001" x="0" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10002" x="422" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10003" x="422" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10004" x="844" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10005" x="844" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10006" x="1266" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10007" x="1688" y="0" width="422" height="721"/>
+	<SubTexture name="LucarioDown instance 10000" x="2110" y="0" width="451" height="732"/>
+	<SubTexture name="LucarioDown instance 10001" x="2110" y="0" width="451" height="732"/>
+	<SubTexture name="LucarioDown instance 10002" x="2561" y="0" width="451" height="732"/>
+	<SubTexture name="LucarioDown instance 10003" x="2561" y="0" width="451" height="732"/>
+	<SubTexture name="LucarioDown instance 10004" x="3012" y="0" width="451" height="732"/>
+	<SubTexture name="LucarioLeft instance 10000" x="3463" y="0" width="387" height="723"/>
+	<SubTexture name="LucarioLeft instance 10001" x="3463" y="0" width="387" height="723"/>
+	<SubTexture name="LucarioLeft instance 10002" x="0" y="732" width="387" height="723"/>
+	<SubTexture name="LucarioLeft instance 10003" x="0" y="732" width="387" height="723"/>
+	<SubTexture name="LucarioLeft instance 10004" x="387" y="732" width="387" height="723"/>
+	<SubTexture name="LucarioRight instance 10000" x="774" y="732" width="435" height="752"/>
+	<SubTexture name="LucarioRight instance 10001" x="774" y="732" width="435" height="752"/>
+	<SubTexture name="LucarioRight instance 10002" x="1209" y="732" width="435" height="752"/>
+	<SubTexture name="LucarioRight instance 10003" x="1209" y="732" width="435" height="752"/>
+	<SubTexture name="LucarioRight instance 10004" x="1644" y="732" width="435" height="752"/>
+	<SubTexture name="LucarioUp instance 10000" x="2079" y="732" width="425" height="729"/>
+	<SubTexture name="LucarioUp instance 10001" x="2079" y="732" width="425" height="729"/>
+	<SubTexture name="LucarioUp instance 10002" x="2504" y="732" width="425" height="729"/>
+	<SubTexture name="LucarioUp instance 10003" x="2504" y="732" width="425" height="729"/>
+	<SubTexture name="LucarioUp instance 10004" x="2929" y="732" width="425" height="729"/>
+</TextureAtlas>

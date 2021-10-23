@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lucarioevil_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk instance 10000" x="0" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10001" x="0" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10002" x="246" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10003" x="246" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10004" x="492" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10005" x="492" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10006" x="492" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10007" x="492" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10008" x="492" y="0" width="246" height="258"/>
+	<SubTexture name="talk instance 10009" x="492" y="0" width="246" height="258"/>
+</TextureAtlas>

@@ -1,0 +1,1 @@
+Duplicate this folder to your bin folder after you build your files, or else the game will crash after you load up a song

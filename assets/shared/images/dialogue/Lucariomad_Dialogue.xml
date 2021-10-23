@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lucariomad_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Talk instance 10000" x="0" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10001" x="0" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10002" x="235" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10003" x="235" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10004" x="470" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10005" x="470" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10006" x="470" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10007" x="470" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10008" x="470" y="0" width="235" height="295"/>
+	<SubTexture name="Talk instance 10009" x="470" y="0" width="235" height="295"/>
+</TextureAtlas>

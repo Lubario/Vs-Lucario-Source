@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-12,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LucarioLeft"
+		},
+		{
+			"offsets": [
+				50,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LucarioDown"
+		},
+		{
+			"offsets": [
+				23,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LucarioUp"
+		},
+		{
+			"offsets": [
+				24,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LucarioRight"
+		},
+		{
+			"offsets": [
+				23,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lucario Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lucario_Angry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lucariomad",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				34,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MegaLeft"
+		},
+		{
+			"offsets": [
+				-6,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MegaDown"
+		},
+		{
+			"offsets": [
+				36,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MegaUp"
+		},
+		{
+			"offsets": [
+				0,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MegaRight"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MegaIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MegaLucario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lucariomega",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

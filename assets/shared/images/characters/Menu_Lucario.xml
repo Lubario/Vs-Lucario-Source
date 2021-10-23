@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lucario_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lucario Idle instance 10000" x="0" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10001" x="0" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10002" x="422" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10003" x="422" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10004" x="844" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10005" x="844" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10006" x="1266" y="0" width="422" height="721"/>
+	<SubTexture name="Lucario Idle instance 10007" x="0" y="721" width="422" height="721"/>
+</TextureAtlas>
